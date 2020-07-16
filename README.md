@@ -60,4 +60,5 @@ $ npx cordova emulate ios
 
 | Working copy | Broken copy |
 | -----------  | ----------- |
-
+| ![working_copy](result_screenshots/working_screenshot.png) | ![broken_copy](result_screenshots/broken_screenshot.png)
+ 
